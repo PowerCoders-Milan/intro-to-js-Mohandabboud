@@ -1,2 +1,5 @@
 // Example
-window.alert("Hello World!");
+
+var x = prompt("Wirte here anything you want");
+var y = x.length;
+window.alert( x + " " + y);
